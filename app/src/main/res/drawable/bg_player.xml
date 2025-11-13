@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Placeholder background for player screen (simulating blurred grass) -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient
+        android:angle="90"
+        android:startColor="#2d5016"
+        android:centerColor="#3a5f1c"
+        android:endColor="#4a7023"
+        android:type="linear" />
+</shape>
